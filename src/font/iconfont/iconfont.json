@@ -1,0 +1,44 @@
+{
+  "id": "1588374",
+  "name": "时间病史",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "310108",
+      "name": "capsule",
+      "font_class": "capsule",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "3538463",
+      "name": "drugspills",
+      "font_class": "drugspills",
+      "unicode": "ec60",
+      "unicode_decimal": 60512
+    },
+    {
+      "icon_id": "5218418",
+      "name": "西瓜",
+      "font_class": "xigua",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "5634971",
+      "name": "eye",
+      "font_class": "eye",
+      "unicode": "f28f",
+      "unicode_decimal": 62095
+    },
+    {
+      "icon_id": "12619010",
+      "name": "PILL BOTTLE",
+      "font_class": "pill-box-copy",
+      "unicode": "f290",
+      "unicode_decimal": 62096
+    }
+  ]
+}
