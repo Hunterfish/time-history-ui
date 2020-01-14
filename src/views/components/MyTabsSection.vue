@@ -128,7 +128,7 @@ export default {
     },
 
     toGithub() {
-        window.open("https://gitee.com/ddebug/time-history-ui",'_blank')
+        window.open("https://github.com/Hunterfish/time-history-ui",'_blank')
     }
   },
 };
