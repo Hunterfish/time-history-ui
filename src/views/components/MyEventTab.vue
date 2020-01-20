@@ -122,7 +122,7 @@ export default {
           event.likeCount = event.likeCount + 1
           setTimeout(() => {
               event.favourite=true;
-          }, 500);
+          }, 100);
       })
     },
 
