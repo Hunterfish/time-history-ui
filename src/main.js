@@ -33,12 +33,12 @@ import App from "./App.vue";
 
 Vue.use(DatePicker);
 Vue.use(Alert);
-Vue.use(Message);
+// Vue.use(Message);
 Vue.use(Tooltip);
 Vue.use(Timeline);
 Vue.use(TimelineItem);
 
-Vue.prototype.$message = Message;
+// Vue.prototype.$message = Message;
 
 Vue.config.productionTip = false;
 Vue.use(Argon);
@@ -67,6 +67,6 @@ if (window.requestIdleCallback) {
         var murmur = Fingerprint2.x64hash128(values.join(''), 31)
         // console.log(murmur);//在这里就是打印的浏览器指纹
         Vue.prototype.$fingerId = murmur
-      })  
+      })
   }, 500)
 }
